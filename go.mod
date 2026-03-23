@@ -1,4 +1,4 @@
-module github.com/tykangler/cloudflare
+module github.com/tykangler/caddy-cloudflare
 
 go 1.23.0
 
